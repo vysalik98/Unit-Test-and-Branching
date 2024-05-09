@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+WHt5lQ2+Aqy7aWC8CKCHJchKOaJsPc0xtV/WjQ6UshjIxt6s9vUFsg6i9twF8yw41Ew5bi7a1SvkI5kQfX3Q==",
+  "success": true,
+  "projectFilePath": "/Users/vysalikallepalli/Downloads/Calculator/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/vysalikallepalli/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/vysalikallepalli/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/vysalikallepalli/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.28/microsoft.netcore.app.host.osx-arm64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

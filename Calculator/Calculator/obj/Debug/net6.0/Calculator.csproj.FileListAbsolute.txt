@@ -1,0 +1,14 @@
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/bin/Debug/net6.0/Calculator
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/vysalikallepalli/Downloads/Calculator/Calculator/obj/Debug/net6.0/ref/Calculator.dll
